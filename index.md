@@ -12,7 +12,7 @@ title: Support our Demands!
 
   h1 {
     font-family: 'Open Sauce One', 'Arial', sans-serif;
-    font-size: 3vw;
+    font-size: 2em;
     margin-bottom: 20px;
     display: flex;
     justify-content: center;
@@ -39,7 +39,7 @@ title: Support our Demands!
   p {
     font-family: 'Open Sauce One', sans-serif;
     color: #333;
-    font-size: 1.5vw;
+    font-size: 1em;
   }
 
   .flex-container {
@@ -57,7 +57,7 @@ title: Support our Demands!
   .button {
     display: inline-block;
     padding: 15px 25px;
-    font-size: 1.2vw;
+    font-size: 1.5em;
     font-family: 'Arial', sans-serif;
     color: #fff;
     /* width: 300px; */
@@ -78,7 +78,7 @@ title: Support our Demands!
 
   @media (max-width: 800px) {
     h1 {
-      font-size: 2.5vw;
+      font-size: 1em;
     }
 
     h1 img {
@@ -86,7 +86,7 @@ title: Support our Demands!
     }
 
     .button {
-      font-size: 1.5vw;
+      font-size: 1.2em;
       padding: 10px 20px;
     }
 
