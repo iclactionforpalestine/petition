@@ -13,7 +13,7 @@ title: Support our Demands!
 
   h1 {
     font-family: 'Open Sauce One', 'Arial', sans-serif;
-    font-size: 2em;
+    font-size: 2.5em;
     margin-bottom: 20px;
     display: flex;
     justify-content: center;
@@ -23,11 +23,11 @@ title: Support our Demands!
     text-transform: uppercase;
   }
 
-  h1 img {
-    max-width: 15%; /* Adjust the height as needed */
+  img {
+    max-width: 20%; /* Adjust the height as needed */
     max-height: 100px;
     margin-right: 15px;
-    margin-left: 15px;
+    /* margin-left: 15px; */
   }
 
   h2 {
@@ -47,7 +47,7 @@ title: Support our Demands!
   .flex-container {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-between;
+    /* justify-content: space-between; */
     align-items: center;
   }
 
@@ -80,11 +80,12 @@ title: Support our Demands!
 
   @media (max-width: 800px) {
     h1 {
-      font-size: 1.5em;
+      font-size: 2em;
     }
 
-    h1 img {
-      max-width: 10%;
+    img {
+      max-width: 20%;
+      margin-right: 10px;
     }
 
     .button {
@@ -99,11 +100,14 @@ title: Support our Demands!
 </style>
 
 <div class="container">
-  <h1 style="text-align: center;">
+  <div class="flex-container">
     <img src="./logo.png" alt="LZ Logo">
-    Say no to Imperial College complicity in occupation, genocide, and apartheid.
     <img src="./logo-afp.png" alt="AFP Logo">
+  </div>
+  <h1 style="text-align: left;">
+    <b>Say no to Imperial College complicity in occupation, genocide, and apartheid.</b>
   </h1>
+
   <p>You can help support the student movement by signing the petition and sending an email to management in just 2 steps.</p>
   
   <div>
