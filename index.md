@@ -30,7 +30,7 @@ title: Support our Demands!
 
   h2 {
     font-family: aileron, 'Arial', sans-serif;
-    font-size: 2em;
+    font-size: 2vw;
     margin-bottom: 10px;
     color: #333;
     text-transform: uppercase;
