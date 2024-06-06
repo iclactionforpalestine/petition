@@ -24,8 +24,8 @@ title: Support our Demands!
   }
 
   img {
-    max-width: 20%; /* Adjust the height as needed */
-    max-height: 100px;
+    max-width: 30%; /* Adjust the height as needed */
+    max-height: 125px;
     margin-right: 15px;
     /* margin-left: 15px; */
   }
@@ -84,7 +84,7 @@ title: Support our Demands!
     }
 
     img {
-      max-width: 20%;
+      max-width: 25%;
       margin-right: 10px;
     }
 
