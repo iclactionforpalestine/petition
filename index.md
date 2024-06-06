@@ -14,7 +14,6 @@ title: Support our Demands!
     font-family: 'Open Sauce One', 'Arial', sans-serif;
     font-size: 4em;
     margin-bottom: 20px;
-    color: #333;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -25,6 +24,18 @@ title: Support our Demands!
   h1 img {
     max-height: 60px; /* Adjust the height as needed */
     margin-right: 20px;
+  }
+
+  h2 {
+    font-family: aileron, 'Arial', sans-serif;
+    font-size: 2em;
+    margin-bottom: 10px;
+    color: #333;
+    text-transform: uppercase;
+  }
+
+  p {
+    font-family: 'Open Sauce One', sans-serif;
   }
 
   .flex-container {
