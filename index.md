@@ -25,13 +25,14 @@ title: Support our Demands!
 
   h1 img {
     max-width: 15%; /* Adjust the height as needed */
+    max-height: 100px;
     margin-right: 20px;
     margin-right: 20px;
   }
 
   h2 {
     font-family: aileron, 'Arial', sans-serif;
-    font-size: 2vw;
+    font-size: 1.5em;
     margin-bottom: 10px;
     color: #333;
     text-transform: uppercase;
@@ -40,7 +41,7 @@ title: Support our Demands!
   p {
     font-family: 'Open Sauce One', sans-serif;
     color: #333;
-    font-size: 1em;
+    font-size: 1.1em;
   }
 
   .flex-container {
@@ -58,7 +59,7 @@ title: Support our Demands!
   .button {
     display: inline-block;
     padding: 15px 25px;
-    font-size: 1.5em;
+    font-size: 1.2em;
     font-family: 'Arial', sans-serif;
     color: #fff;
     /* width: 300px; */
