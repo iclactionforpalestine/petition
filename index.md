@@ -12,7 +12,7 @@ title: Support our Demands!
 
   h1 {
     font-family: 'Open Sauce One', 'Arial', sans-serif;
-    font-size: 4em;
+    font-size: 3em;
     margin-bottom: 20px;
     display: flex;
     justify-content: center;
@@ -22,7 +22,7 @@ title: Support our Demands!
   }
 
   h1 img {
-    max-height: 60px; /* Adjust the height as needed */
+    max-height: 100px; /* Adjust the height as needed */
     margin-right: 20px;
   }
 
@@ -83,9 +83,9 @@ title: Support our Demands!
 </style>
 
 <div class="container">
-  <h1>
+  <h1 text-align='center'>
     <img src="./logo.png" alt="LZ Logo">
-    Support the demands for Imperial College to stop complicity in occupation, genocide and apartheid.
+    <span></span>Support the demands for Imperial College to stop complicity in occupation, genocide and apartheid.
     <img src="./logo-afp.png" alt="AFP Logo">
   </h1>
   <p>You can help support the student movement by signing the petition and sending an email to management in just 2 steps.</p>
