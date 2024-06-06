@@ -26,8 +26,8 @@ title: Support our Demands!
   h1 img {
     max-width: 15%; /* Adjust the height as needed */
     max-height: 100px;
-    margin-right: 20px;
-    margin-right: 20px;
+    margin-right: 15px;
+    margin-left: 15px;
   }
 
   h2 {
@@ -80,7 +80,7 @@ title: Support our Demands!
 
   @media (max-width: 800px) {
     h1 {
-      font-size: 1em;
+      font-size: 1.5em;
     }
 
     h1 img {
