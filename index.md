@@ -8,6 +8,7 @@ title: Support our Demands!
     text-align: left;
     padding: 50px;
     background-color: #f8f4f0;
+    max-width: 100%;
   }
 
   h1 {
