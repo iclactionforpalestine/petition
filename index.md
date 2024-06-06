@@ -11,7 +11,7 @@ title: Support our Demands!
   }
 
   h1 {
-    font-family: 'Arial', sans-serif;
+    font-family: 'Open Sauce One', 'Arial', sans-serif;
     font-size: 4em;
     margin-bottom: 20px;
     color: #333;
@@ -19,6 +19,7 @@ title: Support our Demands!
     justify-content: center;
     align-items: center;
     color: #3d4c06;
+    text-transform: uppercase;
   }
 
   h1 img {
@@ -56,6 +57,8 @@ title: Support our Demands!
     background-color: #8e1f1d;
   }
 
+  @import url('https://fonts.cdnfonts.com/css/open-sauce-one');
+
   @media (max-width: 600px) {
     h1 {
       font-size: 2em;
@@ -70,10 +73,11 @@ title: Support our Demands!
 
 <div class="container">
   <h1>
-    <img src="./logo.png" alt="Logo">
+    <img src="./logo.png" alt="LZ Logo">
     Support the demands for Imperial College to stop complicity in occupation, genocide and apartheid.
+    <img src="./logo-afp.png" alt="AFP Logo"
   </h1>
-  <p>You can help support the encampment and student movement by signing the petition and sending an email to management in 2 steps!</p>
+  <p>You can help support the student movement by signing the petition and sending an email to management in just 2 steps.</p>
   
   <div class="flex-container">
     <div>
