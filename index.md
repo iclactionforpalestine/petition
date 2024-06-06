@@ -5,15 +5,25 @@ title: Support our Demands!
 
 <style>
   .container {
-    text-align: center;
+    text-align: left;
     padding: 50px;
+    background-color: #f8f4f0;
   }
 
-  h1 {
+ h1 {
     font-family: 'Arial', sans-serif;
-    font-size: 3em;
+    font-size: 4em;
     margin-bottom: 20px;
     color: #333;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #3d4c06;
+  }
+
+  h1 img {
+    max-height: 60px; /* Adjust the height as needed */
+    margin-right: 20px;
   }
 
   .button {
@@ -23,7 +33,7 @@ title: Support our Demands!
     font-size: 1.2em;
     font-family: 'Arial', sans-serif;
     color: #fff;
-    background-color: #007BFF;
+    background-color: #bf2f33;
     border: none;
     border-radius: 5px;
     text-decoration: none;
@@ -32,7 +42,7 @@ title: Support our Demands!
   }
 
   .button:hover {
-    background-color: #0056b3;
+    background-color: #8e1f1d;
   }
 
   @media (max-width: 600px) {
@@ -48,7 +58,10 @@ title: Support our Demands!
 </style>
 
 <div class="container">
-  <h1>Support the demands for Imperial College to stop complicity in occupation, genocide and apartheid.</h1>
+  <h1>
+    <img src="./logo.png" alt="Logo">
+    Support the demands for Imperial College to stop complicity in occupation, genocide and apartheid.
+  </h1>
   <p> You can help support the encampment and student movement by signing the petition and sending an email to management in 2 steps!</p>
   
   <h2>STEP 1</h2>
