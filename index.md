@@ -113,9 +113,9 @@ title: Support our Demands!
   <div>
     <h2><em>STEP 1</em></h2>
     <div>
-      <p>Click the following button to sign the petition on Change.org</p>
+      <p>Click the following button to sign the petition on Change.org. Use your Imperial email address if you have one.</p>
       <a href="https://www.change.org/p/cut-ties-with-israel-at-imperial-college-london-divest-from-genocide" target="_blank" class="button">
-        Sign the petition on Change.org. Use your Imperial email address if you have one.
+        Sign the petition on Change.org
       </a>
     </div>
     <h2><em>STEP 2</em></h2>
